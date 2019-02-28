@@ -11,3 +11,7 @@
 
 ### Robotics
 [Robotics Assignment](https://markbrewin.github.io/Robotics/)
+
+## Other Projects
+
+### [Clicker Coaster](https://markbrewin.github.io/ClickerCoaster/)
