@@ -13,6 +13,9 @@ Assignments and projects undertaken whilst studying for a BSc in Computer Scienc
 ### [Motion Alarm (Mobile Computing)](https://github.com/markbrewin/MotionAlarm/)
 An alarm clock application designed to determine whether the user has actually woken up using the phone's location. Created for the CMP3103M Mobile Computing assignment whilst studying at the University of Lincoln.
 
+### [Movie Information Client (Software Engineering)](https://github.com/CameronWragg/MovieInformationClient)
+CMP3111M Software Engineering Assignment group artefact that allows the user to search and bookmark films.
+
 ### [York Minster (Group Project)](https://github.com/markbrewin/york-minster)
 An AR based treasure hunt game (intended for York Minster) created whilst studying at the University of Lincoln apart of the Group Project module.
 
